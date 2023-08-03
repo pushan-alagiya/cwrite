@@ -45,3 +45,15 @@
   grid-gap: 10px;
   justify-content: center;
 }
+
+@media screen and (max-width: 1200px) {
+  .bloglist {
+    grid-template-columns: 300px 300px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .bloglist {
+    grid-template-columns: 300px;
+  }
+}
