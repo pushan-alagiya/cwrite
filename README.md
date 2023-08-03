@@ -1,4 +1,4 @@
-# Simple React Blog App: Read and Delete Blog Functionality
+## Simple React Blog App: Read and Delete Blog Functionality
 
 ![Screenshot](https://github.com/pushan-alagiya/cwrite/blob/main/Github/Screenshot/Screenshot%20from%202023-08-03%2014-03-10.png?raw=true)
 
