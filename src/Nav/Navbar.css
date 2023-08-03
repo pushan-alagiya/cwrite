@@ -14,17 +14,18 @@ a {
 
 ul {
   display: flex;
+  justify-content: center;
   list-style-type: none;
-  margin-left: auto;
-  margin-bottom: 0px;
-  max-width: 300px;
+  padding-left: 0%;
 }
 
 li {
+  text-align: center;
   margin: 10px;
   margin-top: 25px;
   margin-bottom: 0px;
   padding: 10px;
+  overflow: hidden;
 }
 
 a:hover {
@@ -33,9 +34,7 @@ a:hover {
 
 .navbar-header {
   font-size: 3rem;
-  float: inline-start;
-  margin: 0px;
-  margin-left: 40px;
+  margin: auto;
 }
 
 nav {
